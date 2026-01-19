@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning ASP.NET</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning DevOps</p>
 
 ###
 
