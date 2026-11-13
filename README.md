@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<h2 FrontEnd developer of https://voeemsog.com </h2>
+<h2 align="left">Frontend Developer at <a href="https://voeemsog.com">voeemsog.com</a></h2>
 
 ###
 
