@@ -7,6 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
+<h2 FrontEnd developer of https://voeemsog.com </h2>
 
 ###
 
